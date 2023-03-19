@@ -1,0 +1,28 @@
+
+#include<stdio.h>  #include<string.h>
+#include<stdlib.h>
+                
+
+#include"header.h"
+
+#define PRINTF(x) printf("num = %d \n", x);
+int main()
+{
+
+printf("Hello World\n");
+printf("This is project for pre-processor stage\n");
+int max;    
+int num1, num2;
+int result = 0;
+printf("Enter the num1: "); 
+scanf("%d", &num1);                   
+hello                             
+scanf("%d", &num2);
+result = num1 + num2;
+printf("result = %d\n", result);
+                                                                                            
+printf("max: %d\n", max);
+                           
+return 0;
+}
+                                
